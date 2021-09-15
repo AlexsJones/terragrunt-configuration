@@ -8,4 +8,4 @@ To run this environment using [civo](https://civo.com) as the Kubernetes cloud p
 - `TERRAFORM_WORKSPACE_TOKEN` environment variable set ( to use terraform cloud )
 
 
-![terragrunt](images/terragrunt.png)
+![terragrunt](images/terragrunt.png)`
