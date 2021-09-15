@@ -1,3 +1,3 @@
 locals {
-  terraform-module-catalogue-tag="v0.0.1-dev"
+  terraform-module-catalogue-tag="v0.0.2-dev"
 }
